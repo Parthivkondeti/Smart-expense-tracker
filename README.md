@@ -1,4 +1,4 @@
-# 💸 Smart Expense Tracker
+#  Smart Expense Tracker
 
 A personal finance dashboard built with pure HTML, CSS, and JavaScript — no frameworks, no backend, no database.
 
