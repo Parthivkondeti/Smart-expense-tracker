@@ -1,4 +1,4 @@
-#  Smart Expense Tracker
+# Smart Expense Tracker
 
 A personal finance dashboard built with pure HTML, CSS, and JavaScript — no frameworks, no backend, no database.
 
@@ -7,13 +7,13 @@ A personal finance dashboard built with pure HTML, CSS, and JavaScript — no fr
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 SmartTrack is a fully client-side expense tracking dashboard that helps users monitor their income, expenses, and savings in real time. Built as a portfolio project to demonstrate skills in DOM manipulation, data visualisation, localStorage persistence, and UI/UX design.
 
 ---
 
-## ✨ Features
+## Features
 
 - **📊 Interactive Charts** — 6-month bar chart, category donut chart, and 30-day balance trend line chart using Chart.js
 - **💰 Live Stats** — Real-time balance, income, expense, and savings rate cards
@@ -29,7 +29,7 @@ SmartTrack is a fully client-side expense tracking dashboard that helps users mo
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -41,7 +41,7 @@ SmartTrack is a fully client-side expense tracking dashboard that helps users mo
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Smart-expense-tracker/
@@ -52,7 +52,7 @@ Smart-expense-tracker/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 **Option 1 — Live Demo (recommended)**
 Click the Live Demo link above.
@@ -70,7 +70,7 @@ No installation. No npm. No server. Just open the file.
 
 ---
 
-## 📖 How It Works
+## How It Works
 
 ### Data Flow
 ```
@@ -102,7 +102,7 @@ All transactions are stored in the browser's `localStorage` under the key `st2_t
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - [ ] Cloud sync (Firebase)
 - [ ] Multiple account support
@@ -112,7 +112,7 @@ All transactions are stored in the browser's `localStorage` under the key `st2_t
 
 ---
 
-## 👤 Author
+## Author
 
 **Parthiv Kondeti**
 - GitHub: [@Parthivkondeti](https://github.com/Parthivkondeti)
