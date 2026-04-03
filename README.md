@@ -2,10 +2,8 @@
 
 A personal finance dashboard built with pure HTML, CSS, and JavaScript — no frameworks, no backend, no database.
 
-![Dashboard Preview](preview.png)
-
 ## 🔗 Live Demo
-**[View Live →](https://parthivkondeti.github.io/Smart-expense-tracker)**
+**[View Live →](https://parthivkondeti.github.io/Smart-expense-tracker/)**
 
 ---
 
@@ -98,7 +96,9 @@ All transactions are stored in the browser's `localStorage` under the key `st2_t
 
 ## 📸 Screenshots
 
-> Add screenshots here after enabling GitHub Pages
+<img width="1876" height="976" alt="image" src="https://github.com/user-attachments/assets/bb846ba2-43fb-4304-85f0-4fb1415f3ca1" />
+<img width="1885" height="986" alt="image" src="https://github.com/user-attachments/assets/82b0dbe8-8264-45bf-a4f6-8bfacb6fd20f" />
+
 
 ---
 
